@@ -1,5 +1,5 @@
 # Mondrian style transfer
-Chris Anderson: [GitHub](https://github.com/chrisranderson), [twitter](https://twitter.com/chrisdotio)
+Chris Anderson: [GitHub](https://github.com/chrisranderson), [Twitter](https://twitter.com/chrisdotio)
 
 ## Prerequisites
 
