@@ -21,7 +21,11 @@ The default code will try to generate a mondrian to match `mondrian.png`.
 
 ## Running with different images
 
-Towards the top of `mondrian.clj` and `server.py` there are instructions with configuration options. Adding to the depth parameter won't get you a whole lot unless you're using a huge image (which would be slower because of image comparison). For small images, it's probably better to keep the depth around 4-6, and increase the number of particles for as long as you're willing to wait.
+Towards the top of `mondrian.clj` and `server.py` there are instructions with configuration options. 
+
+## Tips
+
+Adding to the depth parameter won't get you a whole lot unless you're using a huge image (which would be slower because of image comparison). For small images, it's probably better to keep the depth around 4-6, and increase the number of particles for as long as you're willing to wait.
 
 ## Notes
 
