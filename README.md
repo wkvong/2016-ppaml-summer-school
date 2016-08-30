@@ -10,8 +10,3 @@ Portland, OR from July 25th to August 5th, 2016.
 The summer school covered the
 [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican/) and
 [WebPPL](http://webppl.org/) probabilistic programming languages.
-
-## Projects Outside This Repository
-
-- [tesloid](https://gist.github.com/proger/9f91b1ef27c137de710bad1b681414e1) (Anglican)
-- [shiftmap](https://github.com/proger/shiftmap) (WebPPL)
